@@ -1,6 +1,6 @@
 # FLOWMARKET
 
-Repositório central com os principais materiais e entregas do projeto FLOWMARKET.
+Repositório central com os principais materiais e entregas do projeto FLOWMARKET!.
 
 ## 📚 Documentação
 
